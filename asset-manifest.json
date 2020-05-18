@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paszo/third-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paszo/third-app/static/js/main.a2dd2a8f.chunk.js",
+    "main.js.map": "/paszo/third-app/static/js/main.a2dd2a8f.chunk.js.map",
+    "runtime-main.js": "/paszo/third-app/static/js/runtime-main.9b79cc63.js",
+    "runtime-main.js.map": "/paszo/third-app/static/js/runtime-main.9b79cc63.js.map",
+    "static/js/2.34ce8622.chunk.js": "/paszo/third-app/static/js/2.34ce8622.chunk.js",
+    "static/js/2.34ce8622.chunk.js.map": "/paszo/third-app/static/js/2.34ce8622.chunk.js.map",
+    "index.html": "/paszo/third-app/index.html",
+    "precache-manifest.21e2bbc5a41b833a3d0b512bbaa9b9b7.js": "/paszo/third-app/precache-manifest.21e2bbc5a41b833a3d0b512bbaa9b9b7.js",
+    "service-worker.js": "/paszo/third-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paszo/third-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.34ce8622.chunk.js.LICENSE.txt": "/paszo/third-app/static/js/2.34ce8622.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paszo/third-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b79cc63.js",
+    "static/js/2.34ce8622.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a2dd2a8f.chunk.js"
+  ]
+}
